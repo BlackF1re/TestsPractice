@@ -1,0 +1,15 @@
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/bin/Debug/net7.0/TestsPractice
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/bin/Debug/net7.0/TestsPractice.deps.json
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/bin/Debug/net7.0/TestsPractice.runtimeconfig.json
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/bin/Debug/net7.0/TestsPractice.dll
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/bin/Debug/net7.0/TestsPractice.pdb
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/obj/Debug/net7.0/TestsPractice.csproj.AssemblyReference.cache
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/obj/Debug/net7.0/TestsPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/obj/Debug/net7.0/TestsPractice.AssemblyInfoInputs.cache
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/obj/Debug/net7.0/TestsPractice.AssemblyInfo.cs
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/obj/Debug/net7.0/TestsPractice.csproj.CoreCompileInputs.cache
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/obj/Debug/net7.0/TestsPractice.dll
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/obj/Debug/net7.0/refint/TestsPractice.dll
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/obj/Debug/net7.0/TestsPractice.pdb
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/obj/Debug/net7.0/TestsPractice.genruntimeconfig.cache
+/home/gr603_lepdm/RiderProjects/TestsPractice/TestsPractice/obj/Debug/net7.0/ref/TestsPractice.dll
